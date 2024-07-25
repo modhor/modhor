@@ -36,7 +36,7 @@ I'm a Robotic Process Automation (RPA) developer passionate about automating tas
 
 ### Recent Blog Posts
 
-1. [Automating Data Extraction with UiPath](#) - [Read more](https://www.youtube.com/watch?v=DWFs6aqknqw)
+1. [Automating Data Extraction with UiPath](https://www.youtube.com/watch?v=DWFs6aqknqw) - [Read more](https://www.youtube.com/watch?v=DWFs6aqknqw)
 2. [Enhancing Task Automation with Python Scripts](#)
 
 ---
